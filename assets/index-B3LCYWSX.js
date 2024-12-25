@@ -238,6 +238,7 @@ Error generating stack: `+i.message+`
   border: none;
   align-self: ${o=>o.$position};
   cursor: pointer;
+  background-color: transparent;
 `,Sm=ge.button`
   border: 2px solid black;
   padding: 1rem 1.5rem;
